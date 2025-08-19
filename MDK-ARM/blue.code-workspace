@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "files.associations": {
+            "dht11.h": "c"
+        }
+    },
+    "extensions": {}
+}
